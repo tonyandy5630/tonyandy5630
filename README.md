@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Bui Thanh u
+- 👋 Hi, I'm Bui Thanh Tu
 - 👀 I’m interested in Mechanical Keyboard, Coding
 - 🌱 I’m currently learning Software Engineer at FPT Univerysity HCM
 - 💞️ I’m currently studying ReactJS, Java, NodeJS, C#
