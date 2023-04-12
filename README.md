@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Bui Thanh u
 - 👀 I’m interested in Mechanical Keyboard, Coding
 - 🌱 I’m currently learning Software Engineer at FPT Univerysity HCM
-- 💞️ I’m currently studying ReactJS, Java
+- 💞️ I’m currently studying ReactJS, Java, NodeJS, C#
 - 📫 Reach me via tonyandy789@gmail.com
 
 <!---
